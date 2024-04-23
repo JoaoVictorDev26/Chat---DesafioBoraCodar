@@ -1,2 +1,2 @@
-Projeto de estudo baseado no Desafio Hora de Codar - Rocketseat
+Projeto de estudo baseado no Desafio Bora de Codar - Rocketseat
 
